@@ -401,4 +401,4 @@ export default function PropertyDetail() {
                       </button>
                     </form>
                   )}
-                </div
+                </div>
